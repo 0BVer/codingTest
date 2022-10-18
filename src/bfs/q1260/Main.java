@@ -1,4 +1,4 @@
-package bfs.q1260.Main;
+package bfs.q1260;
 
 import java.util.*;
 
