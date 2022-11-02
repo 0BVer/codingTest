@@ -1,4 +1,4 @@
-package dfs.q1697;
+package bfs.q1697;
 
 import java.util.*;
 public class Main {
